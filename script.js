@@ -1,6 +1,6 @@
 //your JS code here. If required.
-function pramod (){
+function functionName (){
 	alert(arguments.callee.name);
 }
 
-pramod()
+functionName();
